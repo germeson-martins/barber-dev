@@ -227,9 +227,17 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 54px 0;
-    gap: 24px;
+    padding: 30px 0 30px  0;
+    gap: 10px;
     color: $white-normal;
+
+    a{
+        color: $white-normal;
+    }
+
+    a:hover{
+        color: $red-normal
+    }
 }
 
 .services h2 {
