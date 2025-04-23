@@ -90,7 +90,7 @@ i {
 .bg-home::before {
   content: "";
   position: absolute;
-  background-image: linear-gradient(to bottom, rgba(6, 18, 30, 0.1), #06121e), url("../assets/bg.svg");
+  background-image: linear-gradient(to bottom, rgba(6, 18, 30, 0.1), #06121e), url("assets/bg.svg");
   left: 0;
   top: 0;
   width: 100%;
